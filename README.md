@@ -1,2 +1,0 @@
-# htmlsemanticoutput
- HTML semantic output
